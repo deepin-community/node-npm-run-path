@@ -1,0 +1,25 @@
+node-npm-run-path (2.0.2-3) unstable; urgency=medium
+
+  * Trim trailing whitespace.
+  * Use secure copyright file specification URI.
+  * Bump debhelper from old 11 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Update Vcs-* headers from URL redirect.
+  * Use canonical URL in Vcs-Git.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Sat, 28 Aug 2021 23:29:03 +0100
+
+node-npm-run-path (2.0.2-2) unstable; urgency=medium
+
+  * Drop patches and embed path-key
+  * Modernize packaging
+
+ -- Pirate Praveen <praveen@debian.org>  Sat, 10 Feb 2018 19:50:13 +0530
+
+node-npm-run-path (2.0.2-1) unstable; urgency=low
+
+  * Initial release (Closes: #845513)
+
+ -- Pirate Praveen <praveen@debian.org>  Thu, 24 Nov 2016 12:17:13 +0530
