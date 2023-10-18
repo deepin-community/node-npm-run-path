@@ -2,6 +2,7 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: npm-run-path
 Upstream-Contact: https://github.com/sindresorhus/npm-run-path/issues
 Source: https://github.com/sindresorhus/npm-run-path#readme
+ https://github.com/sindresorhus/path-key/tags
 
 Files: *
 Copyright: 2016 Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
@@ -31,4 +32,3 @@ License: Expat
  ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE.
-
